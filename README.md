@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1>
-  Hey there
+  Hey, I am Nikhil Gurjar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
 
 👋 Frontend Engineer | Angular, TypeScript , React.js
 
@@ -15,13 +15,7 @@
 
 🚀 Experienced Frontend Engineer skilled in Angular, React, and TypeScript. 
 
-💡 My skills include:
-✅ Angular, NGRX , React.js
-✅ JavaScript | TypeScript
-✅ Jest | JASMINE-KARMA | HTML/CSS | SASS 
-
-📫 Let's connect:
-📧 Email: nikhilgurjar0297@gmail.com
+📫 Let's connect: 📧 nikhilgurjar0297@gmail.com
 
 🌍 Passionate about remote work opportunities
 
